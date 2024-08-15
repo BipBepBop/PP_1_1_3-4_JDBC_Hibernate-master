@@ -17,7 +17,7 @@ public class Util {
 
     private static final String dbURL= "jdbc:mysql://localhost:3306/mytest";
     private static final String dbUsername = "root";
-    private static final String dbPassword = "89991554251";
+    private static final String dbPassword = "root";
 
     private static SessionFactory sessionFactory;
     public static SessionFactory getSessionFactory() {
